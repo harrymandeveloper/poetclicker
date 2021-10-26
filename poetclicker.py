@@ -1,5 +1,3 @@
-import pygame
-
 # Imports a random module
 import random
 
