@@ -9,6 +9,6 @@ To run, install pygame: https://www.pygame.org/wiki/GettingStarted
 
 cd into the root folder and run:
 
-pgzrun poemclicker.py
+```pgzrun poemclicker.py
 
 
