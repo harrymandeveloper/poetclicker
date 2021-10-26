@@ -1,4 +1,4 @@
-# Poem Clicker
+# Poet Clicker
 A simple Python based demo poetry game for my Lyric AI class. 
 
 Click on Joy Harjo's image (or poet of your choice) and receive a line of poetry in the command line.
